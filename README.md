@@ -1,6 +1,4 @@
-Here's a complete `README.md` for your Docker image, including usage, how to create a persistent volume link to a local directory, and an adapted explanation for running the deserializers inside the container:
 
----
 
 ![logo](docs/resources/ARU_logo_rectangle.png)
 
